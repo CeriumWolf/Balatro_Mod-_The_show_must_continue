@@ -1,10 +1,11 @@
 {
-  "id": "mod_test",
-  "name": "MOD test",
-  "prefix": "Modtest",
+  "id": "the_show_must_continue",
+  "name": "The Show Must Continue",
+  "display_name": "The Show Must Continue",
+  "prefix": "tsmc",
   "author": ["CeriumWolf"],
-  "description": "A test mod for balatro",
-  "main_file": "modtest.lua",
+  "description": "A mod for Balatro, developed by a simple engineering student.",
+  "main_file": "TheShowMustContinue.lua",
   "badge_colour": "8b61ad",
   "version": "0.0.1",
   "dependencies": ["Steamodded (>=1.0.0~BETA-0711a)", "Lovely (>=0.7.1)"]
