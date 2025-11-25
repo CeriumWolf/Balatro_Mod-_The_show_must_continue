@@ -10,7 +10,7 @@ end
 
 SMODS.Atlas({
     key = "theshow",
-    path = "TheShowMustContinue.png",
+    path = "theshow.png",
     px = 71,
     py = 95,
 })
